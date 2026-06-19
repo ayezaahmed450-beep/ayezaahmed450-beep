@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Ayesha Ahmed
 
 <p align="center">
-  💻 Software Engineering Student • 🤖 ML Enthusiast • 🌱 Lifelong Learner
+  💻AI Automation + AI Agent  • 🤖 ML Enthusiast • 🌱 Lifelong Learner
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 BS Software Engineering student  
+  
 - 🤖 Interested in Machine Learning & Artificial Intelligence  
 - 💡 Focused on Python, Data Structures & Algorithms  
 - 🌱 Currently learning ML fundamentals  
@@ -20,9 +20,8 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python  
-- C++  
-- HTML, CSS, JavaScript  
+- Python    
+- HTML 
 
 **ML & Data Science**
 - NumPy  
@@ -51,7 +50,7 @@
 - Build real-world AI/ML projects  
 - Contribute to open source  
 - Improve coding and problem-solving skills  
-- Grow as a software engineer  
+    
 
 ---
 
